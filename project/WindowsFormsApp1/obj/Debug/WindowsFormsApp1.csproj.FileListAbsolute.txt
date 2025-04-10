@@ -1,0 +1,39 @@
+D:\Програмы\Visual Studio\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Програмы\Visual Studio\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Програмы\Visual Studio\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Програмы\Visual Studio\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Програмы\Visual Studio\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Програмы\Visual Studio\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Програмы\Visual Studio\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Програмы\Visual Studio\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Програмы\Visual Studio\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Програмы\Visual Studio\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja-JP\WindowsFormsApp1.resources.dll
+D:\Програмы\Visual Studio\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Програмы\Visual Studio\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.ja-JP.resources
+D:\Програмы\Visual Studio\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ja-JP\WindowsFormsApp1.resources.dll
+D:\_Emolod12\em1211\WindowsFormsApp3 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\_Emolod12\em1211\WindowsFormsApp3 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\_Emolod12\em1211\WindowsFormsApp3 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\_Emolod12\em1211\WindowsFormsApp3 — копия\WindowsFormsApp1\bin\Debug\ja-JP\WindowsFormsApp1.resources.dll
+D:\_Emolod12\em1211\WindowsFormsApp3 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\_Emolod12\em1211\WindowsFormsApp3 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\_Emolod12\em1211\WindowsFormsApp3 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\_Emolod12\em1211\WindowsFormsApp3 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.ja-JP.resources
+D:\_Emolod12\em1211\WindowsFormsApp3 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\_Emolod12\em1211\WindowsFormsApp3 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\_Emolod12\em1211\WindowsFormsApp3 — копия\WindowsFormsApp1\obj\Debug\ja-JP\WindowsFormsApp1.resources.dll
+D:\_Emolod12\em1211\WindowsFormsApp3 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\_Emolod12\em1211\WindowsFormsApp3 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Downloads\project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Downloads\project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Downloads\project\WindowsFormsApp1\bin\Debug\ja-JP\WindowsFormsApp1.resources.dll
+C:\Users\Admin\Downloads\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Downloads\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Downloads\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.ja-JP.resources
+C:\Users\Admin\Downloads\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\project\WindowsFormsApp1\obj\Debug\ja-JP\WindowsFormsApp1.resources.dll
+C:\Users\Admin\Downloads\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
